@@ -1,5 +1,5 @@
 # Austin Smith's Learning Journal
-
+[My Portfolio](https://github.com/ALS97)
 ## About Me
 >Lets get this bread.
 
@@ -19,4 +19,4 @@ A growth mindset is one that is open to new ideas and being wrong. It is very ha
 
 :+1:
 
-https://github.com/ALS97/learning-journal
+
