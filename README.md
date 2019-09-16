@@ -19,3 +19,4 @@ A growth mindset is one that is open to new ideas and being wrong. It is very ha
 
 :+1:
 
+https://github.com/ALS97/learning-journal
