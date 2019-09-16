@@ -1,11 +1,11 @@
 # Austin Smith's Learning Journal
 
-##About Me
+## About Me
 >Lets get this bread.
 
 My name is Austin Smith and at the time of writing this I am 22 years old and starting to learn to code.
 
-###Growth Mindset
+### Growth Mindset
 
 A growth mindset is one that is open to new ideas and being wrong. It is very hard to expand your learning with outdate techniques or information. In order to ensure a healthy growth mindset I will:
  
