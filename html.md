@@ -16,21 +16,21 @@ The purpose of HTML is to house all of your content that you wish to be displaye
 ## An HTML template would look like this
  `<!DOCTYPE html>`
  
- `<head>`
+  `<head>`
   
- `</head>`
+   `</head>`
  
- `<main>`
+    `<main>`
  
-  `<body>`
+     `<body>`
   
-    `<h1> Body of the page </hi>`
+      `<h1> Body of the page </h1>`
     
-   `<article>`
+      `<article>`
    
-   `</article>`
+      `</article>`
    
-  `</body>`
+     `</body>`
   
- `</main>`
+   `</main>`
      
