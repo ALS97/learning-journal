@@ -29,3 +29,14 @@ Components of a **GOOD** text editor consist of:
  - mkdir = Make Directory
  - mv = Move
  - cp = Copy
+ 
+ ## Git / GitHub
+ 
+ ### Git
+ 
+ This is what is used to track and store any and all changes made to the code to ensure backups in the event of a failure or accident.
+ 
+ To clone a repository from GitHub, you would use the code
+ 
+ `git clone url`
+ 
