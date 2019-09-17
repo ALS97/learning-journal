@@ -14,23 +14,23 @@ Consists of *elements* which in turn consist of:
 The purpose of HTML is to house all of your content that you wish to be displayed on your page. It will not be pretty by any means but it will be functional in itself.
 
 ## An HTML template would look like this
- `<!DOCTYPE html>`
+ `<!DOCTYPE html>
  
-  `<head>`
+  <head>
   
-   `</head>`
+   </head>
  
-    `<main>`
+    <main>
  
-     `<body>`
+     <body>
   
-      `<h1> Body of the page </h1>`
+      <h1> Body of the page </h1>
     
-      `<article>`
+      <article>
    
-      `</article>`
+      </article>
    
-     `</body>`
+     </body>
   
-   `</main>`
+   </main>`
      
