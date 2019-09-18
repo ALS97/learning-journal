@@ -9,17 +9,31 @@ Style can be:
 
 Ex:
  
- ` main {
+ `main {
      background-color: black;
-     width: 500px;
-
- }  `
+     width: 500px; }
+     
+ `
 
  "Main" = Selector
  "Background-color/Width = Property
  "Black/500px" = Value
  "background-color: black;
      width: 500px;"    = Declaration
+
+  With CSS you can create and change:
+
+  1. Boxes
+   -Width/Height
+   -Border
+   -Background Color/Image
+   -Position
+
+  2. Text
+   -Typeface
+   -Size
+   -Color
+   -Italics/Bold/Case
 
 
 
