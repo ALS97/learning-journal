@@ -9,11 +9,11 @@ Style can be:
 
 Ex:
  
- `main {
+ ` main {
      background-color: black;
      width: 500px;
 
- }`
+ }  `
 
  "Main" = Selector
  "Background-color/Width = Property
@@ -21,7 +21,7 @@ Ex:
  "background-color: black;
      width: 500px;"    = Declaration
 
-     
+
 
 
 
