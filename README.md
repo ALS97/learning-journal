@@ -4,6 +4,6 @@
 ## Table of Contents
 
 1. [About Me](https://github.com/ALS97/learning-journal/blob/master/aboutme.md)
-2. [Text Editors/ Terminal](https://github.com/ALS97/learning-journal/blob/master/texteditor-terminal.md)
-3. [Git/GitHub](https://github.com/ALS97/learning-journal/blob/master/GitHub.md)
-4. [HTML](https://github.com/ALS97/learning-journal/blob/master/html.md)
+2. [Text Editors/ Terminal](/texteditor-terminal.md)
+3. [Git/GitHub](/GitHub.md)
+4. [HTML](/html.md)
